@@ -12,6 +12,5 @@
     "mongodb": "^6.17.0",
     "request": "^2.88.2"
   },
-  "devDependencies": {},
   "description": ""
 }
